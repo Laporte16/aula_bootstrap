@@ -1,0 +1,52 @@
+
+body {
+    font: 20px arial, sans-serif;
+    color: rgb(0, 0, 0);
+    background-color: rgb(9, 87, 23;)
+    width:;
+}
+
+ h3, hr{
+    color: white;
+ }
+ h2{
+    background-color: black;
+    color: white;
+ }
+.navbar{
+    background-color: rgb(255, 255, 255);
+    color: rgb(90, 6, 6);
+   border-top: 0ch;
+}
+
+.quem-somos{
+    background-color:rgb(9, 87, 23);
+}
+.margin{
+    padding-bottom: 50px;
+    padding-top: 0spx;
+}
+.parceiros {
+    background-color: rgb(9, 87, 23);
+    inline-size: 100%;
+    color
+}
+
+.row{
+  background-color: rgb(253, 253, 253); 
+}
+.serv{
+    background-color: rgb(9, 87, 23);
+}
+.fund{
+    background-color: rgb(9, 87, 23);
+}
+
+}
+.nav{
+    inline-size: 100%;
+}
+
+.footer{
+    background-color: black;
+}
